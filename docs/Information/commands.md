@@ -65,8 +65,10 @@ Voici la liste complète des commandes disponibles sur le serveur Craftaria. Ces
 ## Commandes d'Interactions et Chat 🗣️
 - **/sit** : S'asseoir sur un bloc.
 - **/crawl** : Ramper sur le sol.
+- **/bellyflop** : Nager statiquement
 - **/lay** : S'allonger sur le sol.
 - **/spin** : Tourner en rond.
+- 
 - **#inv** : Affiche ton inventaire.
 - **#item** : Affiche l'objet dans ta main.
 - **#ec** : Affiche ton enderchest.
